@@ -1,6 +1,6 @@
 # Hi, I'm Cristina 👋
  
-**Data Scientist** with a strong foundation in mathematics, passionate about leveraging machine learning and AI to solve real-world problems.
+**AI & Analytics Leader** with a strong foundation in mathematics, passionate about leveraging machine learning and AI to solve real-world problems.
  
 📍 Chicago, IL · [LinkedIn](https://www.linkedin.com/in/mathstatisticsdatascience/)
  
