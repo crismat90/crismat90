@@ -19,7 +19,6 @@ I'm especially interested in computer vision, predictive modeling, and deploying
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Skin Cancer Detection](https://github.com/crismat90/skincancer) | Detection and classification of skin cancer lesions using image filtering, feature extraction, and synthetic data augmentation on the HAM10000 dataset | Python · Deep Learning · Computer Vision |
-| [Hotel Cancellation & ADR Prediction](https://github.com/crismat90/hotel-modelling) | End-to-end ML pipeline predicting hotel cancellations (SVM, XGBoost) and average daily rate (Neural Networks, ARIMA, LSTM) across 115K+ records | Python · Scikit-learn · TensorFlow · AWS SageMaker |
 | [Dog Breed Classification (AWS)](https://github.com/crismat90/imageclassification) | Image classification of 133 dog breeds using transfer learning (ResNet50) with hyperparameter tuning, profiling, and deployment on SageMaker | PyTorch · AWS SageMaker · Transfer Learning |
 | [Bike Sharing Demand Prediction](https://github.com/crismat90/Bike-Sharing-Demand-with-AutoGluon-AWS-) | Demand forecasting using AutoGluon's automated model selection on AWS | AutoGluon · AWS · Time Series |
 | [ML Workflow on AWS (Scones Unlimited)](https://github.com/crismat90/Worflow-Scones-Unlimited---Amazon-Sagemaker) | Serverless ML workflow orchestrating SageMaker, Lambda, and Step Functions | AWS SageMaker · Lambda · Step Functions |
